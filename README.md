@@ -1,34 +1,22 @@
 # Decentralized Attendance System
 
+This project is a simple decentralized attendance system built on Aptos blockchain as part of the Aptos Bootcamp.
+
 ## Project Description
-A blockchain-based attendance tracking system built using the Aptos blockchain and Move smart contracts as the backend, and React with Tailwind CSS for the frontend. This system enables secure, transparent, and tamper-proof attendance records for students and teachers.
+I am a student learning blockchain and coding step-by-step. This project is a learning practice where I am building an attendance system using smart contracts to make it decentralized and transparent.
 
-## Project Vision
-To create a decentralized, fraud-resistant attendance management platform that ensures trust and transparency using blockchain technology, empowering educational institutions with reliable attendance solutions.
+## Features
+- Marking attendance on blockchain
+- Transparent and tamper-proof records
+- Basic smart contract development on Aptos
 
-## Key Features
-- User-friendly React frontend with role-based dashboards (Teacher and Student).
-- Blockchain backend using Aptos and Move smart contracts for immutable attendance records.
-- Wallet integration for secure student and teacher authentication.
-- Real-time attendance marking and retrieval from the blockchain.
-- Tailwind CSS for responsive and clean UI design.
+## Status
+Project is still in progress and will be updated further.
 
-## Future Scope
-- Integration with multiple blockchain networks for wider adoption.
-- Enhanced reporting and analytics dashboards.
-- Mobile app version for on-the-go attendance management.
-- Support for biometric authentication or QR code scanning.
-- Integration with school management systems.
+## How to Run
+1. Deploy smart contract to Aptos Devnet.
+2. (Optional) Build a frontend for users to mark attendance.
+3. View records directly on blockchain explorer.
 
-## Screenshot
-![Attendance System Screenshot](./frontend/screenshot.png)
-
-*(Replace the path and image file with your actual screenshot)*
-
----
-
-Feel free to customize this README as you progress!
-
----
-
-If you want, I can also help you generate the screenshot image or guide you to add it properly.
+## Author
+K Navya Sree

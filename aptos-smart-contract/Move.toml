@@ -1,0 +1,7 @@
+[package]
+name = "your_package_name"
+version = "0.1.0"
+edition = "2021"
+
+[addresses]
+SendMessage = "0x1"  # Replace with your actual Aptos account address
